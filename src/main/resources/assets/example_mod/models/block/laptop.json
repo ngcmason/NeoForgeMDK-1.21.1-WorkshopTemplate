@@ -1,0 +1,77 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "example_mod:block/laptop",
+		"particle": "example_mod:block/laptop"
+	},
+	"elements": [
+		{
+			"name": "keyboard",
+			"from": [2, 0, 2],
+			"to": [14, 1, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 0, 2]},
+			"faces": {
+				"north": {"uv": [0, 9, 6, 9.5], "texture": "#0"},
+				"east": {"uv": [0, 10, 4.5, 10.5], "texture": "#0"},
+				"south": {"uv": [6, 9, 12, 9.5], "texture": "#0"},
+				"west": {"uv": [4.5, 10, 9, 10.5], "texture": "#0"},
+				"up": {"uv": [6, 4.5, 0, 0], "texture": "#0"},
+				"down": {"uv": [6, 4.5, 0, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "screen",
+			"from": [2.01, 0, 14],
+			"to": [13.99, 9, 15],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [2, 9, 14]},
+			"faces": {
+				"north": {"uv": [6, 0, 12, 4.5], "texture": "#0"},
+				"east": {"uv": [9, 10, 9.5, 14.5], "texture": "#0"},
+				"south": {"uv": [6, 4.5, 12, 9], "texture": "#0"},
+				"west": {"uv": [9.5, 10, 10, 14.5], "texture": "#0"},
+				"up": {"uv": [6, 10, 0, 9.5], "texture": "#0"},
+				"down": {"uv": [12, 9.5, 6, 10], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-111.77, 0.52, -180],
+			"translation": [-5.5, 6.5, 6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-111.77, 0.52, -180],
+			"translation": [-5.5, 6.5, 6]
+		},
+		"firstperson_righthand": {
+			"rotation": [-165.25, 0, -180],
+			"translation": [-9, 8.25, 6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-165.25, 0, -180],
+			"translation": [-9, 8.25, 6]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [30, -135, 0],
+			"translation": [0.5, 1.75, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"translation": [0, 14.25, 1]
+		},
+		"fixed": {
+			"rotation": [-31.25, 0, 0],
+			"translation": [0, 2.25, -5.75]
+		},
+		"on_shelf": {
+			"rotation": [-31.25, 0, 0],
+			"translation": [0, 2.25, -5.75]
+		}
+	}
+}

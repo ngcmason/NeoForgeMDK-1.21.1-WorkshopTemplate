@@ -1,0 +1,6 @@
+// 1.21.1	2026-03-03T10:24:06.4517287	Loot Tables
+26db6bfceb60afe4515e3a05896ae9c4353b8e7c data/example_mod/loot_table/blocks/deepslate_denison_ore.json
+75eec4b69b2ad8f89759c6ff87877ec0078e4666 data/example_mod/loot_table/blocks/denison_block.json
+b5729257c56db5ac2376150329046eef49745765 data/example_mod/loot_table/blocks/denison_ore.json
+62283103c92d32bec5da65df5977d0be5b8d5cc0 data/example_mod/loot_table/blocks/dining_hall.json
+fcc33201e94465044ff5684405974c7481557bc9 data/example_mod/loot_table/blocks/laptop.json

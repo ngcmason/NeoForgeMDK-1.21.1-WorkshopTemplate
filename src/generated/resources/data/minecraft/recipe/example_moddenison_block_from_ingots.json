@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "example_mod:denison_ingot"
+    },
+    {
+      "item": "example_mod:denison_ingot"
+    },
+    {
+      "item": "example_mod:denison_ingot"
+    },
+    {
+      "item": "example_mod:denison_ingot"
+    },
+    {
+      "item": "example_mod:denison_ingot"
+    },
+    {
+      "item": "example_mod:denison_ingot"
+    },
+    {
+      "item": "example_mod:denison_ingot"
+    },
+    {
+      "item": "example_mod:denison_ingot"
+    },
+    {
+      "item": "example_mod:denison_ingot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "example_mod:denison_block"
+  }
+}

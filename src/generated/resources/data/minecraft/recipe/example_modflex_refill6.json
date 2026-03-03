@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "example_mod:id_card"
+    },
+    {
+      "tag": "example_mod:flex_refiller"
+    },
+    {
+      "tag": "example_mod:flex_refiller"
+    },
+    {
+      "tag": "example_mod:flex_refiller"
+    },
+    {
+      "tag": "example_mod:flex_refiller"
+    },
+    {
+      "tag": "example_mod:flex_refiller"
+    },
+    {
+      "tag": "example_mod:flex_refiller"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "example_mod:id_card"
+  }
+}

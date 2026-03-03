@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_denison_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": "example_mod:denison_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:example_moddenison_block_from_ingots"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_denison_ingot"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:example_moddenison_block_from_ingots"
+    ]
+  }
+}

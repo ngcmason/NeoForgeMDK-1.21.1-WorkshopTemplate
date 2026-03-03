@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "example_mod:block/dining_hall",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "example_mod:block/dining_hall"
+    },
+    "facing=south": {
+      "model": "example_mod:block/dining_hall",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "example_mod:block/dining_hall",
+      "y": 270
+    }
+  }
+}

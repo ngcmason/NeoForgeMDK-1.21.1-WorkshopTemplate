@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "example_mod:denison_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "example_mod:denison_ingot"
+  }
+}

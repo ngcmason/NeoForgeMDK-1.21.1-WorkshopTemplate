@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "example_mod:block/laptop",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "example_mod:block/laptop"
+    },
+    "facing=south": {
+      "model": "example_mod:block/laptop",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "example_mod:block/laptop",
+      "y": 270
+    }
+  }
+}

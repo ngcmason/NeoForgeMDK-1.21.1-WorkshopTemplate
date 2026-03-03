@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "example_mod:block/dining_hall_bottom",
+    "side": "example_mod:block/dining_hall_side",
+    "top": "example_mod:block/dining_hall_top"
+  }
+}

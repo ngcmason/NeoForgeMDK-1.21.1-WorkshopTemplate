@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "example_mod:raw_denison"
+  },
+  "result": {
+    "count": 1,
+    "id": "example_mod:denison_ingot"
+  }
+}

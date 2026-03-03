@@ -1,0 +1,13 @@
+// 1.21.1	2026-03-03T10:49:49.5129328	Block States: example_mod
+5a8ac95b078dbf445ebf66541217bfe9a3c19953 assets/example_mod/blockstates/deepslate_denison_ore.json
+33f4185bab7ccc2e3299b713eedde39ca9d0f9da assets/example_mod/blockstates/denison_block.json
+57d2b7d8273b5e7ddda0448aaaabf30ae83466f4 assets/example_mod/blockstates/denison_ore.json
+76d6a329acbc672be6345e37c19589a091d3ca73 assets/example_mod/blockstates/dining_hall.json
+097e4d50a131d3c291c1bc80cf4ce4f71ab351d8 assets/example_mod/models/block/deepslate_denison_ore.json
+9af7b38530a78ed767fe6d9feb3fdd4dd7a668d7 assets/example_mod/models/block/denison_block.json
+30fc963db6e322722ade3baf5abad3d8c005efdd assets/example_mod/models/block/denison_ore.json
+bc98a441c52c8f985bd8697d55940aea8d9bda32 assets/example_mod/models/block/dining_hall.json
+1e5427fe4e427e85da2bddbd12f6a6d9fc42651e assets/example_mod/models/item/deepslate_denison_ore.json
+e2b3525fa7f341480519abaa27d02ad35c9aaab6 assets/example_mod/models/item/denison_block.json
+53da15d3d2b8cf0b6458a6d6805aa01c13d1be6e assets/example_mod/models/item/denison_ore.json
+8695299ac0c860585b95ab8adeab284143114c3a assets/example_mod/models/item/dining_hall.json

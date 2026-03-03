@@ -1,0 +1,12 @@
+{
+  "block.example_mod.deepslate_denison_ore": "Deepslate Denison Ore",
+  "block.example_mod.denison_block": "Block of Denison",
+  "block.example_mod.denison_ore": "Denison Ore",
+  "block.example_mod.dining_hall": "Dining Hall",
+  "block.example_mod.laptop": "Laptop",
+  "blockentity.example_mod.dining_hall": "Dining Hall",
+  "creativetab.example_mod.items": "Example Mod",
+  "item.example_mod.denison_ingot": "Denison Ingot",
+  "item.example_mod.id_card": "ID Card",
+  "item.example_mod.raw_denison": "Raw Denison"
+}
